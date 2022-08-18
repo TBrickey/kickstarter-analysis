@@ -14,13 +14,13 @@ Using excel we’ll help organize, filter, sort and analyze crowdfunding data. W
 
 Utilizing Excel pivot tables and graphs gives us the ability to count the number of successful, failed, and canceled campaigns by month while isolate on the Parent Category: Theater. This technique better illustrates the connection between the campaigns viability and launch date.
 
-!(https://github.com/TBrickey/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![TBrickey](https://github.com/TBrickey/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 We used the COUNTIFS () function in Excel and calculated the percentage of successful, failed, and canceled plays based on a funding goal amount range. The graph helps in visualizing percentage successful and failed in Louise’s estimate goal range. 
 
-!(https://github.com/TBrickey/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![TBrickey](https://github.com/TBrickey/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
